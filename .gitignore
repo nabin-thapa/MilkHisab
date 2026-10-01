@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# Local machine paths (contains the SDK location of the developer)
+local.properties
+
+# Keystores and secrets
+*.jks
+*.keystore
+keystore.properties
+
+# OS noise
+.DS_Store
+Thumbs.db

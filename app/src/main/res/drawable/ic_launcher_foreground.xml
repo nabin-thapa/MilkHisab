@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple milk-drop launcher icon (original artwork, no copyrighted material). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Milk drop -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,26 C54,26 34,50 34,64 a20,20 0 0 0 40,0 C74,50 54,26 54,26 Z" />
+    <!-- Small highlight inside the drop -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M46,64 a8,8 0 0 0 8,8 l0,-4 a4,4 0 0 1 -4,-4 Z" />
+</vector>
